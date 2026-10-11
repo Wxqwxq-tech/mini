@@ -1,0 +1,212 @@
+[
+  {
+    "file": "prompt-engineering-overview.md",
+    "kind": "page",
+    "parts": 4,
+    "chars": 32844
+  },
+  {
+    "file": "finding-vulnerabilities-claude-codex.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 16520
+  },
+  {
+    "file": "how-to-review-code-effectively.md",
+    "kind": "page",
+    "parts": 3,
+    "chars": 15912
+  },
+  {
+    "file": "agentic-ai-threats.md",
+    "kind": "page",
+    "parts": 4,
+    "chars": 27748
+  },
+  {
+    "file": "context-rot.md",
+    "kind": "page",
+    "parts": 4,
+    "chars": 24911
+  },
+  {
+    "file": "mcp-server-authentication.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 10561
+  },
+  {
+    "file": "sast-vs-dast.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 7735
+  },
+  {
+    "file": "writing-effective-tools-for-agents.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 10971
+  },
+  {
+    "file": "devin-coding-agents-101.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 8243
+  },
+  {
+    "file": "mcp-introduction.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 13259
+  },
+  {
+    "file": "sre-introduction.md",
+    "kind": "page",
+    "parts": 2,
+    "chars": 9438
+  },
+  {
+    "file": "owasp-top-ten.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 13257
+  },
+  {
+    "file": "ai-assisted-code-review-assessment.md",
+    "kind": "pdf",
+    "parts": 4,
+    "chars": 26239
+  },
+  {
+    "file": "how-anthropic-uses-claude-code.md",
+    "kind": "pdf",
+    "parts": 5,
+    "chars": 29290
+  },
+  {
+    "file": "specs-are-the-new-source-code.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 6206
+  },
+  {
+    "file": "multi-agent-systems-ai-native.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 7866
+  },
+  {
+    "file": "code-review-essentials.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 4138
+  },
+  {
+    "file": "how-openai-uses-codex.md",
+    "kind": "pdf",
+    "parts": 1,
+    "chars": 5417
+  },
+  {
+    "file": "ai-code-review-best-practices.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 6172
+  },
+  {
+    "file": "observability-basics.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 7165
+  },
+  {
+    "file": "claude-code-best-practices.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 5732
+  },
+  {
+    "file": "how-long-contexts-fail.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 3871
+  },
+  {
+    "file": "kubernetes-troubleshooting-ai.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 4880
+  },
+  {
+    "file": "copilot-prompt-injection-rce.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 4499
+  },
+  {
+    "file": "benefits-agentic-ai-oncall.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 4483
+  },
+  {
+    "file": "code-reviews-just-do-it.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 5136
+  },
+  {
+    "file": "warp-vs-claude-code.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 4706
+  },
+  {
+    "file": "mcp-food-for-thought.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 2908
+  },
+  {
+    "file": "mcp-registry-preview.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 2678
+  },
+  {
+    "file": "prompt-engineering-guide.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 2099
+  },
+  {
+    "file": "peeking-under-the-hood-of-claude-code.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 252
+  },
+  {
+    "file": "Vibe_Coding_Playbook.md",
+    "kind": "pdf",
+    "parts": 1,
+    "chars": 224
+  },
+  {
+    "file": "good-context-good-code.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 173
+  },
+  {
+    "file": "how-warp-uses-warp.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 67
+  },
+  {
+    "file": "lessons-from-ai-code-reviews.md",
+    "kind": "page",
+    "parts": 1,
+    "chars": 31
+  }
+]

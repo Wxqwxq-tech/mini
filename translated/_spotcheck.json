@@ -1,0 +1,250 @@
+{
+  "missing_files": [],
+  "high_en_ratio": [
+    {
+      "file": "code-reviews-just-do-it.md",
+      "en_ratio": 0.3658
+    },
+    {
+      "file": "owasp-top-ten.md",
+      "en_ratio": 0.3921
+    }
+  ],
+  "files": [
+    {
+      "file": "agentic-ai-threats.md",
+      "kind": "page",
+      "chars": 27748,
+      "en_ratio": 0.1042
+    },
+    {
+      "file": "ai-code-review-best-practices.md",
+      "kind": "page",
+      "chars": 6172,
+      "en_ratio": 0.0219
+    },
+    {
+      "file": "benefits-agentic-ai-oncall.md",
+      "kind": "page",
+      "chars": 4483,
+      "en_ratio": 0.1031
+    },
+    {
+      "file": "claude-code-best-practices.md",
+      "kind": "page",
+      "chars": 5732,
+      "en_ratio": 0.0929
+    },
+    {
+      "file": "code-review-essentials.md",
+      "kind": "page",
+      "chars": 4138,
+      "en_ratio": 0.0067
+    },
+    {
+      "file": "code-reviews-just-do-it.md",
+      "kind": "page",
+      "chars": 5136,
+      "en_ratio": 0.3658
+    },
+    {
+      "file": "context-rot.md",
+      "kind": "page",
+      "chars": 24911,
+      "en_ratio": 0.0909
+    },
+    {
+      "file": "copilot-prompt-injection-rce.md",
+      "kind": "page",
+      "chars": 4499,
+      "en_ratio": 0.1234
+    },
+    {
+      "file": "devin-coding-agents-101.md",
+      "kind": "page",
+      "chars": 8243,
+      "en_ratio": 0.0219
+    },
+    {
+      "file": "finding-vulnerabilities-claude-codex.md",
+      "kind": "page",
+      "chars": 16520,
+      "en_ratio": 0.0979
+    },
+    {
+      "file": "good-context-good-code.md",
+      "kind": "page",
+      "chars": 173,
+      "en_ratio": 0.1111
+    },
+    {
+      "file": "how-long-contexts-fail.md",
+      "kind": "page",
+      "chars": 3871,
+      "en_ratio": 0.0224
+    },
+    {
+      "file": "how-to-review-code-effectively.md",
+      "kind": "page",
+      "chars": 15912,
+      "en_ratio": 0.0231
+    },
+    {
+      "file": "how-warp-uses-warp.md",
+      "kind": "page",
+      "chars": 67,
+      "en_ratio": 0.0811
+    },
+    {
+      "file": "kubernetes-troubleshooting-ai.md",
+      "kind": "page",
+      "chars": 4880,
+      "en_ratio": 0.0561
+    },
+    {
+      "file": "lessons-from-ai-code-reviews.md",
+      "kind": "page",
+      "chars": 31,
+      "en_ratio": 0.0
+    },
+    {
+      "file": "mcp-food-for-thought.md",
+      "kind": "page",
+      "chars": 2908,
+      "en_ratio": 0.0504
+    },
+    {
+      "file": "mcp-introduction.md",
+      "kind": "page",
+      "chars": 13259,
+      "en_ratio": 0.0619
+    },
+    {
+      "file": "mcp-registry-preview.md",
+      "kind": "page",
+      "chars": 2678,
+      "en_ratio": 0.0741
+    },
+    {
+      "file": "mcp-server-authentication.md",
+      "kind": "page",
+      "chars": 10561,
+      "en_ratio": 0.1168
+    },
+    {
+      "file": "multi-agent-systems-ai-native.md",
+      "kind": "page",
+      "chars": 7866,
+      "en_ratio": 0.0857
+    },
+    {
+      "file": "observability-basics.md",
+      "kind": "page",
+      "chars": 7165,
+      "en_ratio": 0.0493
+    },
+    {
+      "file": "owasp-top-ten.md",
+      "kind": "page",
+      "chars": 13257,
+      "en_ratio": 0.3921
+    },
+    {
+      "file": "peeking-under-the-hood-of-claude-code.md",
+      "kind": "page",
+      "chars": 252,
+      "en_ratio": 0.1087
+    },
+    {
+      "file": "prompt-engineering-guide.md",
+      "kind": "page",
+      "chars": 2099,
+      "en_ratio": 0.1401
+    },
+    {
+      "file": "prompt-engineering-overview.md",
+      "kind": "page",
+      "chars": 32844,
+      "en_ratio": 0.0974
+    },
+    {
+      "file": "sast-vs-dast.md",
+      "kind": "page",
+      "chars": 7735,
+      "en_ratio": 0.0494
+    },
+    {
+      "file": "specs-are-the-new-source-code.md",
+      "kind": "page",
+      "chars": 6206,
+      "en_ratio": 0.0366
+    },
+    {
+      "file": "sre-introduction.md",
+      "kind": "page",
+      "chars": 9438,
+      "en_ratio": 0.0265
+    },
+    {
+      "file": "warp-vs-claude-code.md",
+      "kind": "page",
+      "chars": 4706,
+      "en_ratio": 0.1116
+    },
+    {
+      "file": "writing-effective-tools-for-agents.md",
+      "kind": "page",
+      "chars": 10971,
+      "en_ratio": 0.0694
+    },
+    {
+      "file": "Vibe_Coding_Playbook.md",
+      "kind": "pdf",
+      "chars": 224,
+      "en_ratio": 0.0989
+    },
+    {
+      "file": "ai-assisted-code-review-assessment.md",
+      "kind": "pdf",
+      "chars": 26239,
+      "en_ratio": 0.1121
+    },
+    {
+      "file": "how-anthropic-uses-claude-code.md",
+      "kind": "pdf",
+      "chars": 29290,
+      "en_ratio": 0.0517
+    },
+    {
+      "file": "how-openai-uses-codex.md",
+      "kind": "pdf",
+      "chars": 5417,
+      "en_ratio": 0.0545
+    }
+  ],
+  "term_counts": {
+    "氛围编程": 3,
+    "提示工程": 37,
+    "上下文": 324,
+    "智能体": 652,
+    "代码评审": 178,
+    "漏洞": 145,
+    "提示注入": 57,
+    "可观测性": 34,
+    "值班": 26,
+    "模型上下文协议": 21,
+    "拉取请求": 37,
+    "复盘": 10,
+    "令牌": 23,
+    "护栏": 7,
+    "检索": 37
+  },
+  "raw_term_hints": {
+    "Vibe Coding": 3,
+    "Prompt Engineering": 4,
+    "Code Review": 7,
+    "Prompt Injection": 4,
+    "Observability": 6,
+    "Retrieval": 4
+  }
+}

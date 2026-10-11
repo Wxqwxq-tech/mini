@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "file": "prompt-engineering-overview.html",
+      "chars": 59856,
+      "words": 8390
+    },
+    {
+      "file": "agentic-ai-threats.html",
+      "chars": 53948,
+      "words": 7732
+    },
+    {
+      "file": "context-rot.html",
+      "chars": 52111,
+      "words": 8105
+    },
+    {
+      "file": "how-to-review-code-effectively.html",
+      "chars": 33579,
+      "words": 5620
+    },
+    {
+      "file": "mcp-introduction.html",
+      "chars": 31348,
+      "words": 4935
+    },
+    {
+      "file": "finding-vulnerabilities-claude-codex.html",
+      "chars": 29457,
+      "words": 4715
+    },
+    {
+      "file": "sre-introduction.html",
+      "chars": 26811,
+      "words": 4281
+    },
+    {
+      "file": "writing-effective-tools-for-agents.html",
+      "chars": 23652,
+      "words": 3648
+    },
+    {
+      "file": "devin-coding-agents-101.html",
+      "chars": 21895,
+      "words": 3500
+    },
+    {
+      "file": "sast-vs-dast.html",
+      "chars": 21149,
+      "words": 3105
+    },
+    {
+      "file": "owasp-top-ten.html",
+      "chars": 18412,
+      "words": 2630
+    },
+    {
+      "file": "mcp-server-authentication.html",
+      "chars": 16877,
+      "words": 2645
+    },
+    {
+      "file": "multi-agent-systems-ai-native.html",
+      "chars": 15120,
+      "words": 2202
+    },
+    {
+      "file": "ai-code-review-best-practices.html",
+      "chars": 15104,
+      "words": 2111
+    },
+    {
+      "file": "observability-basics.html",
+      "chars": 14033,
+      "words": 1997
+    },
+    {
+      "file": "specs-are-the-new-source-code.html",
+      "chars": 13330,
+      "words": 2229
+    },
+    {
+      "file": "code-review-essentials.html",
+      "chars": 12028,
+      "words": 2111
+    },
+    {
+      "file": "claude-code-best-practices.html",
+      "chars": 10784,
+      "words": 1689
+    },
+    {
+      "file": "how-long-contexts-fail.html",
+      "chars": 10512,
+      "words": 1686
+    },
+    {
+      "file": "kubernetes-troubleshooting-ai.html",
+      "chars": 10365,
+      "words": 1561
+    },
+    {
+      "file": "copilot-prompt-injection-rce.html",
+      "chars": 8055,
+      "words": 1342
+    },
+    {
+      "file": "benefits-agentic-ai-oncall.html",
+      "chars": 7776,
+      "words": 1124
+    },
+    {
+      "file": "code-reviews-just-do-it.html",
+      "chars": 6735,
+      "words": 1141
+    },
+    {
+      "file": "mcp-registry-preview.html",
+      "chars": 6126,
+      "words": 922
+    },
+    {
+      "file": "warp-vs-claude-code.html",
+      "chars": 5908,
+      "words": 885
+    },
+    {
+      "file": "mcp-food-for-thought.html",
+      "chars": 5694,
+      "words": 965
+    },
+    {
+      "file": "prompt-engineering-guide.html",
+      "chars": 3361,
+      "words": 431
+    },
+    {
+      "file": "peeking-under-the-hood-of-claude-code.html",
+      "chars": 338,
+      "words": 54
+    },
+    {
+      "file": "good-context-good-code.html",
+      "chars": 185,
+      "words": 23
+    },
+    {
+      "file": "how-warp-uses-warp.html",
+      "chars": 95,
+      "words": 15
+    },
+    {
+      "file": "lessons-from-ai-code-reviews.html",
+      "chars": 0,
+      "words": 0
+    }
+  ],
+  "total_html_chars": 534644
+}
